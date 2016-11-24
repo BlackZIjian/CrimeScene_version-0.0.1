@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Liu_Card" size="300.000000 400.000000" />
+    <ImageTarget name="HuaBoard" size="300.000000 981.129272" />
+    <ImageTarget name="ArduinoBook" size="3264.000000 4352.000000" />
+  </Tracking>
+</QCARConfig>
