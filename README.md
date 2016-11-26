@@ -30,6 +30,10 @@
 ###[WebServiceAPI](https://library.vuforia.com/articles/Training/Using-the-VWS-API)
 ###[基础教程](https://library.vuforia.com/getting-started)
 ##3、脑图
+###使用XMind
+> 账号：tongjiSoftwareGroup
+> 密码：ljy000929
+###[XMind下载](http://www.xmindchina.net/xiazai.html)
 ##4、独立开发对接API
 ###4.1安卓设备传感器在Unity中调用方法
 ####4.1.1下载Unity插件包
