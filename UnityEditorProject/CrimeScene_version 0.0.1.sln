@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeScene_version 0.0.1", "CrimeScene_version 0.0.1.csproj", "{11E27ECC-79D3-CDE1-29D7-6CAF52E23A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeScene_version 0.0.1.Editor", "CrimeScene_version 0.0.1.Editor.csproj", "{19CA8F55-ED3F-C35E-80DA-B8A5920AC95F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11E27ECC-79D3-CDE1-29D7-6CAF52E23A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E27ECC-79D3-CDE1-29D7-6CAF52E23A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E27ECC-79D3-CDE1-29D7-6CAF52E23A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E27ECC-79D3-CDE1-29D7-6CAF52E23A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA8F55-ED3F-C35E-80DA-B8A5920AC95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA8F55-ED3F-C35E-80DA-B8A5920AC95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA8F55-ED3F-C35E-80DA-B8A5920AC95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA8F55-ED3F-C35E-80DA-B8A5920AC95F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
