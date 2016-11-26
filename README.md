@@ -33,7 +33,9 @@
 ###使用XMind
 > 账号：tongjiSoftwareGroup
 > 密码：ljy000929
+
 ###[XMind下载](http://www.xmindchina.net/xiazai.html)
+
 ##4、独立开发对接API
 ###4.1安卓设备传感器在Unity中调用方法
 ####4.1.1下载Unity插件包
